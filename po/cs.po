@@ -1,0 +1,171 @@
+# Copyright (C) 2022 scriptmelvin
+# This file is distributed under the same license as the InfoBarWeather package.
+# FIRST AUTHOR scriptmelvin, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: InfoBarWeather\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-10 21:53+0200\n"
+"PO-Revision-Date: 2024-12-22 10:06+0100\n"
+"Last-Translator: paps\n"
+"Language-Team: ims\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 3.5\n"
+
+msgid "Press OK"
+msgstr "Stiskněte OK"
+
+msgid "BFT"
+msgstr "Beaufortova stupnice (BFT)"
+
+msgid "m/s"
+msgstr "m/s"
+
+msgid "km/h"
+msgstr "km/s"
+
+msgid "mph"
+msgstr "mph"
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Please configure a location in plugin settings"
+msgstr "Nastavte polohu v nastavení pluginu"
+
+msgid "Select location"
+msgstr "Výběr polohy"
+
+msgid "Could not parse location data."
+msgstr "Nepodařilo se načíst data o poloze."
+
+msgid "State/province"
+msgstr "Stát/provincie"
+
+msgid "Country"
+msgstr "Země"
+
+msgid "Cancel"
+msgstr "Zavřít"
+
+msgid "Select"
+msgstr "Vybrat"
+
+# TRANSLATORS: do not translate %(version)s
+#              it will be replaced by the plugins version
+msgid "InfoBarWeather %(version)s setup"
+msgstr "InfoBarWeather verze %(version) - Nastavení"
+
+msgid "Enabled"
+msgstr "Povolit"
+
+msgid "Location"
+msgstr "Poloha"
+
+msgid "Press OK to open location search."
+msgstr "Stiskněte OK pro nastavení umístění."
+
+msgid "Wind speed unit"
+msgstr "Jednotky rychlosti větru"
+
+msgid "Display wind speed as BFT, m/s, km/h or mph."
+msgstr "Zobrazovat rychlost větru jako BFT, m/s, km/h nebo mph."
+
+msgid "Temperature unit"
+msgstr "Jednotky teploty"
+
+msgid "Display temperature as °C or °F."
+msgstr "Zobrazovat teploty jako°C nebo °F."
+
+msgid "Show location"
+msgstr "Zobrazovat polohu"
+
+msgid "Show last update time"
+msgstr "Zobrazovat čas poslední aktualizace"
+
+msgid "Show last update time by weather service."
+msgstr "Zobrazovat čas poslední aktualizace meteorologickou službou."
+
+msgid "Show sunrise/sunset"
+msgstr "Zobrazovat čas východu a západu slunce"
+
+msgid "Show humidity"
+msgstr "Zobrazovat vlhkost"
+
+msgid "Show rain"
+msgstr "Zobrazovat déšť"
+
+msgid "Show rain forecast"
+msgstr "Zobrazovat předpověď srážek"
+
+msgid ""
+"Show two hour rain forecast instead of rain probability (only available for "
+"The Netherlands and Belgium)."
+msgstr ""
+"Zobrazit dvouhodinovou předpověď deště místo pravděpodobnosti deště (k "
+"dispozici pouze pro Nizozemsko a Belgii)."
+
+msgid "Show wind"
+msgstr "Zobrazovat vítr"
+
+msgid "Show icon"
+msgstr "Zobrazovat ikonu"
+
+msgid "Show temperature"
+msgstr "Zobrazovat teplotu"
+
+msgid "Show feel temperature"
+msgstr "Zobrazovat pocitovou teplotu"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Enter (part of) location to search for (e.g. \"Amsterdam\" or \"Ams\"):"
+msgstr "Zadejte (část) polohu pro vyhledání (např \"Amsterdam\" nebo \"Ams\"):"
+
+msgid "Could not download location data."
+msgstr "Nepodařilo se stahnout data o poloze."
+
+msgid "Show current weather in infobar"
+msgstr "Zobrazovat aktuální počasí v InfoBar"
+
+msgid "In infobar"
+msgstr "V informační liště"
+
+msgid "Above infobar"
+msgstr "Nad informační lištou"
+
+msgid "Top of screen"
+msgstr "Nahoře na obrazovce"
+
+msgid "Lat"
+msgstr "Šířka"
+
+msgid "Lon"
+msgstr "Délka"
+
+msgid "Position"
+msgstr "Umístění"
+
+msgid "Show min/max temperature"
+msgstr "Zobrazovat min/max teplotu"
+
+msgid "Show UV index"
+msgstr "Zobrazovat UV index"
+
+msgid "UV"
+msgstr "UV"
+
+msgid "Display location as"
+msgstr "Zobrazovat polohu jako"
+
+msgid "Show sun power"
+msgstr "Zobrazovat intenzitu slunečního záření"
+
+msgid "W/m²"
+msgstr "W/m²"
